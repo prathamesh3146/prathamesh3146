@@ -1,7 +1,7 @@
 # Hi there, I'm Prathamesh Kamble! 👋
 
 <p align="center">
-  <img src="https://github.com/prathamesh3146/prathamesh3146/blob/main/DALL%C2%B7E%202025-02-11%2000.27.35%20-%20A%20simple%20and%20professional%20banner%20for%20Prathamesh%20Kamble.%20The%20design%20should%20be%20clean%20and%20minimalistic%20with%20a%20plain%20dark%20background%20and%20white%20text.%20The%20n.jpg" alt="Banner" width="100%">
+  <img src="https://github.com/prathamesh3146/prathamesh3146/blob/main/Pratha.jpg" alt="Banner" width="100%">
 </p>
 
 ## 🚀 About Me

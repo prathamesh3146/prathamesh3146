@@ -6,14 +6,13 @@
 
 ## 🚀 About Me
 
-Aspiring **DevOps Engineer** with a strong foundation in **CI/CD, cloud computing, and cybersecurity**. Passionate about **automation, infrastructure management, and secure deployments**.
+A passionate and adaptable fresher with expertise in **DevOps, cloud computing, and networking**. Proficient in tools like **Docker, Kubernetes, Jenkins, and AWS**. Eager to apply **problem-solving and automation skills** to drive success in a challenging technical role.
 
 📧 Email: [kambleprathamesh2002@gmail.com](mailto:kambleprathamesh2002@gmail.com)  
 📞 Mobile: 8975503146  
 
 ## 🔧 Technical Skills
 
-- **Programming:** Python  
 - **Operating Systems:** Linux (Fedora, Debian, Ubuntu, Kali Linux), Windows (Windows Server 2022, Windows 10)  
 - **Virtualization Tools:** VMware Workstation, Oracle VirtualBox  
 - **Networking & Security Tools:** Cisco Packet Tracer, Wireshark, Burp Suite  

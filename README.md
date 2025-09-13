@@ -1,7 +1,7 @@
 # Hi there, I'm Prathamesh Kamble! 👋
 
 <p align="center">
-  <img src="https://github.com/prathamesh3146/prathamesh3146/blob/main/Pratha.jpg" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/prathamesh3146/prathamesh3146/main/Pratha.jpg" alt="Banner" width="100%">
 </p>
 
 ## 🚀 About Me
